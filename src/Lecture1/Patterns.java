@@ -1,7 +1,8 @@
 package Lecture1;
 
-public class Patterns {
-    public static void main(String[] args)
+public class Patterns 
+{
+        public static void main(String[] args)
     {
         System.out.println("*");
         System.out.println("**");
