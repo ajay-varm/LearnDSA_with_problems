@@ -1,3 +1,9 @@
+//Problem: Print HelloWorld with a java program
+
+
+
+//Solution:
+
 package Lecture1;
 
 public class HelloWorld 
