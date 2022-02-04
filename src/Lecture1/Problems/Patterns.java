@@ -3,7 +3,7 @@
 
 // Solution:
 
-package Lecture1;
+package Lecture1.Problems;
 
 public class Patterns 
 {

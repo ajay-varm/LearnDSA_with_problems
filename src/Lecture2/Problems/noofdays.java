@@ -4,7 +4,7 @@
 
 //Solution:
 
-package Lecture2;
+package Lecture2.Problems;
 
 import java.util.Scanner;
 
