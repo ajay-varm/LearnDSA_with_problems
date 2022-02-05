@@ -3,9 +3,9 @@ Here you will learn about:
 2. how to write print statements 
 
 
-##What is programming:
+What is programming:
  checkout this link:( https://www.geeksforgeeks.org/introduction-to-java/ )
- After that,
+After that,
  checkout this link:( https://www.geeksforgeeks.org/java-basic-syntax/?ref=lbp )
 
 How to write print statements:
