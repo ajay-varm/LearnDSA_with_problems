@@ -1,7 +1,7 @@
 ## **Here you will learn about**:
 
 ##### instructions:
-###### try to understand the topic theme from the links provided if you have any doubt then refer to youtube videos by searching the topic name
+###### try to understand the topic theame from the links provided if you have any doubt then refer to youtube videos by searching the topic name
 
 ---
 
