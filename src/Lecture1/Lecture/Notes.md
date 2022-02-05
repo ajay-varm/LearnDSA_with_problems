@@ -1,17 +1,19 @@
-Here you will learn about:
-1. what is programming
-2. how to write print statements 
+## **Here you will learn about**:
+
+##### instructions:
+###### try to understand the topic theame from the links provided if you have any doubt then refer to youtube videos by searching the topic name
+
+---
 
 
-What is programming:
- checkout this link:( https://www.geeksforgeeks.org/introduction-to-java/ )
-After that,
- checkout this link:( https://www.geeksforgeeks.org/java-basic-syntax/?ref=lbp )
+* **What is programming**:
+  * [introduction to java]( https://www.geeksforgeeks.org/introduction-to-java/ )
+  * [java basic syntax]( https://www.geeksforgeeks.org/java-basic-syntax/?ref=lbp )
 
-How to write print statements:
- checkout this link:( https://www.geeksforgeeks.org/java-hello-world-program/?ref=lbp ) 
+* **How to write print statements**:
+   * [Hello world program ]( https://www.geeksforgeeks.org/java-hello-world-program/?ref=lbp ) 
 
+---
+> you have learned about the above 2 things and now goto problems folder and solve them.
 
-you have learned about these things and now goto problems folder and solve them.
-
-HAPPY CODEING :)
+`HAPPY CODING` :)
