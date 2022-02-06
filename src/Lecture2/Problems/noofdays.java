@@ -2,7 +2,7 @@
 
 // Process to solve:
 		// 1. first take input of month and year
-		// 2. get the condition for months in a year and put them in for loop 
+		// 2. get the condition for months in a year and put them in if & else condition 
 
 // Solution:
 
