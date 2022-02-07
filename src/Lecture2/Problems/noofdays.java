@@ -1,10 +1,10 @@
 // Question: Program to find the number of days in a given month of a given year
 
-//TODO: Process to solve:
+// Process to solve:
 		// 1. first take input of month and year
 		// 2. get the condition for months in a year and put them in if & else condition 
 
-//FIXME: Solution:
+// Solution:
 
 package Lecture2.Problems;
 

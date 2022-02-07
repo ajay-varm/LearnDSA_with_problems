@@ -5,8 +5,24 @@
 
 // Solution:    
 
+package Lecture2.Problems;
+
+
 public class leap_year
 {
-     System.out.println("rint");
+    Public static void main(String[] args)
+    {
+        int year;
+        Scanner sc = new Scanner(System.in);
+        year = sc.newInt();
+        if(year%4 == 0 && year%100 == 0 && year%400 == 0)
+        {
+            System.out.println(year +"is a leap year");
+        }
+        else
+        {
+            System.out.println(year +"is not a leap year");
+        }
+    } 
 }
 
