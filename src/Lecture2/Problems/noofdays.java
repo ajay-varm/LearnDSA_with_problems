@@ -1,10 +1,10 @@
 // Question: Program to find the number of days in a given month of a given year
 
-// Process to solve:
+//TODO: Process to solve:
 		// 1. first take input of month and year
 		// 2. get the condition for months in a year and put them in if & else condition 
 
-// Solution:
+//FIXME: Solution:
 
 package Lecture2.Problems;
 
@@ -23,8 +23,8 @@ public class noofdays
 	    //taking second input from terminal
 		year = sc.nextInt();
 		//if condition : "||" is know as "can be any of them"
-		if(month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
-        {
+		if(month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month ==12)
+		{
 			System.out.print("Number of days is 31");
         }
 		// "&&" is known as it should accept both conditions

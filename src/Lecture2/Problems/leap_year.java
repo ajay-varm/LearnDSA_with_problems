@@ -5,6 +5,8 @@
 
 // Solution:    
 
-public class leap_year{ System.out.println("rint");    
+public class leap_year
+{
+     System.out.println("rint");
 }
 
