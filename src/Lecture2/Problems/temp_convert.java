@@ -1,6 +1,6 @@
-//Question: convert the following into celsius and fahrenheit
+// QUESTION: convert the following into celsius and fahrenheit
 
-// Solution:
+// SOLUTION:
 package Lecture2.Problems;
 
 import java.util.Scanner;
