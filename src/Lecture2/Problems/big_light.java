@@ -67,6 +67,7 @@ public class big_light
         }
         else
         {
+            // this condition is arithmetic progression formula for two AP's
             if((h1 - h2) % (v2 - v1) == 0 && (h1 - h2) / (v2 - v1) > -1)
                 System.out.println("true");
             else
