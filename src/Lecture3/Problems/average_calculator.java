@@ -1,3 +1,10 @@
+// QUESTION: Calculate the average of given numbers.
+
+
+
+//-------------
+//SOLUTION:
+//--------------
 package Lecture3.Problems;
 
 import java.util.Scanner;
@@ -8,6 +15,7 @@ public class average_calculator
     {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
+        //declaring an array with N numbers
         int[] arr = new int[N];
         //for taking inputs for array
         for(int i=0;i<N;i++)

@@ -1,3 +1,10 @@
+//QUESTION: find the power of numbers
+
+
+
+//---------------------------------
+//SOLUTION:
+//---------------------------------
 package Lecture3.Problems;
 
 import java.util.Scanner;

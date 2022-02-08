@@ -1,3 +1,9 @@
+// QUESTION: palindrome
+
+
+//-------------------
+// SOLUTION:
+// ------------------
 package Lecture3.Problems;
 
 import java.util.Scanner;

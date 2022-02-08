@@ -1,3 +1,9 @@
+//QUESTION: sum if first n natural numbers
+
+
+//---------------------------
+//SOLUTION:
+//--------------------------------
 package Lecture3.Problems;
 
 import java.util.Scanner;
@@ -10,6 +16,7 @@ public class sum_of_1st_n_natural_numbers
         Scanner sc = new Scanner(System.in);
         N = sc.nextInt();
         sum = 0;
+        //to get the first N numbers and add them
         for(int i=1;i<=N;i++)
         {
             sum = sum + i;
