@@ -18,7 +18,7 @@ public class palindrome {
 
         int temp = 0;
         while(N>0){
-            // you will get to know about this ligic when you see the "more on arrays" video in lectures.
+            // you will get to know about this logic when you see the "more on arrays" video in lectures.
             temp = temp*10+(N%10);
             N = N/10;
         }
