@@ -27,6 +27,7 @@ public class palindrome {
 
         }else{
             System.out.println(false);
+            
         }
     }
 }

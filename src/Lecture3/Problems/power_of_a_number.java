@@ -7,9 +7,9 @@
 //---------------------------------
 package Lecture3.Problems;
 
+
 import java.util.Scanner;
 import java.lang.Math;
-
 
 public class power_of_a_number 
 {
